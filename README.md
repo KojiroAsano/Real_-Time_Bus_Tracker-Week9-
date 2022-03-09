@@ -3,6 +3,7 @@
 <img src="realtime_bus_stop1.png" width='500'/>
 <img src="realtime_bus_stop2.png" width='500'/>
 </div>
+
 ## Description:
  
   This program consists of javascript, html, and img files.
