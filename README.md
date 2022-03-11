@@ -1,7 +1,7 @@
 # Real_Time_Bus_Tracker-Week9-
 <div>
-<img src="realtime_bus_stop1.png" width='500'/>
-<img src="realtime_bus_stop2.png" width='500'/>
+<img src="realtime_bus_stop1.png" width='400'/>
+<img src="realtime_bus_stop2.png" width='400'/>
 </div>
 
 ## Description:
